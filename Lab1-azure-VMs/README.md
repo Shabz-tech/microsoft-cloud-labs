@@ -22,14 +22,14 @@ This lab demonstrates how I created and configured Azure virtual machines for bo
 - B1s size
 - SSH enabled
 - Connected via powershell  
-![SSH Screenshot](linux-ssh-success.png)
+![SSH Screenshot](linux-ssh.png)
 
 ### 2. Windows VM
 - Windows Server 2019
 - B1s size
 - RDP enabled
 - Connected to Windows Server 2019 via Remote Desktop  
-![RDP Screenshot](windows-rdp-success.png)
+![RDP Screenshot](windows-rdp.png)
 
 ## Notes
 - Used free-tier B1s VM sizes
