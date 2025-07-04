@@ -10,10 +10,10 @@ This lab demonstrates how to create a virtual network with multiple subnets and 
 - Associate NSGs with the correct subnet
 
 ## Resources Created
-- Resource Group: `Lab2-RG`
-- Virtual Network: `Lab2-VNet`
-- Subnets: `WebSubnet`, `BackendSubnet`
-- NSGs: `NSG-Web`, `NSG-Backend`
+- Resource Group: Lab2-RG
+- Virtual Network: Lab2-VNet
+- Subnets: WebSubnet, BackendSubnet
+- NSGs: NSG-Web, NSG-Backend
 
 ## Screenshots
 
