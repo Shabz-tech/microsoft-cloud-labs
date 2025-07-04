@@ -4,7 +4,7 @@
 This lab demonstrates my understanding to securely connect two isolated Azure Virtual Networks (VNets) using **VNet Peering**. Each VNet hosts a virtual machine, and I tested private communication between them using ICMP (ping).
 
 ##Objectives
-- Create two VNets: `VNet-A` and `VNet-B`
+- Create two VNets: VNet-A and VNet-B
 - Deploy one Ubuntu VM in each VNet
 - Peer the VNets to enable private communication
 - Configure NSGs to allow ICMP traffic
