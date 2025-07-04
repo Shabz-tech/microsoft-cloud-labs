@@ -12,10 +12,10 @@ This lab demonstrates how I created and used different Azure storage types inclu
 
 ## Resources Created
 - Resource Group: Labs-RG
-- Storage Account: labstoragess
+- Storage Account: lab3storagess
 - Blob Container: labtestblobcontainer
 - File Share: labtestfileshare
-- Table: LabTestTable
+- Table: TestTableLab
 
 ## Screenshots
 
