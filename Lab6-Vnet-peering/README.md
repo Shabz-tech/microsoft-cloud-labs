@@ -24,12 +24,9 @@ This lab demonstrates my understanding to securely connect two isolated Azure Vi
 ![VNet A](VnetA-and-VnetB-Network-Topology.png)
 
 ### 2. SSH into VM A in Vnet A and successfully pinging private IP of VM B in Vnet B 
-![VNet B](vnet-peering-ping-successvnet-b-created.png)
+![VNet B](vnet-peering-ping-success.png)
 
-##Clean-up
-The entire lab was deleted by removing the resource group after testing.
-
-##Real-World Relevance
+###Notes
 - Enables secure inter-service communication between environments (e.g., app → DB)
 - Avoids public IP exposure
 - Used in production architectures across dev, test, and prod separation
