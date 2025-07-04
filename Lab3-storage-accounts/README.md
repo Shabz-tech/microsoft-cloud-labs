@@ -11,11 +11,11 @@ This lab demonstrates how I created and used different Azure storage types inclu
 - Understand access tiers (Hot, Cool, Archive)
 
 ## Resources Created
-- Resource Group: `Lab3-RG`
-- Storage Account: `lab3storageYOURINITIALS`
-- Blob Container: `testblobcontainer`
-- File Share: `testfileshare`
-- Table: `TestTable`
+- Resource Group: Labs-RG
+- Storage Account: labstoragess
+- Blob Container: labtestblobcontainer
+- File Share: labtestfileshare
+- Table: LabTestTable
 
 ## Screenshots
 
